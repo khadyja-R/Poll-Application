@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-rethinkdb",
+  "version": "1.0.0",
+  "description": "real-time poll application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "khadyja rami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "rethinkdb": "^2.4.2"
+  }
+}
